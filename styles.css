@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+  }
+
+  #buttonred {
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    outline: none;
+    background-color: red;
+  }
+
+  #buttonwhite {
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    outline: none;
+    background-color: white;
+  }
